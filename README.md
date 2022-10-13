@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![LinkedIn Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthias-cremieux-4b1222153/)
 
-I'm currently working at Mindee as a ML Engineer. I am passionate about Unix, its core components, and I am currently learning Infosec. I am also 
+I'm currently working at Mindee as a Software Engineer in ML. I am passionate about Unix, its core components, and I am currently learning Infosec. I am also 
 into Haskell at the moment (while trying to go mouseless with vim).
 
 My stack :
